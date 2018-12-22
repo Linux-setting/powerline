@@ -35,9 +35,16 @@
 				"priority": 50
 			},
 			{
-				"function": "powerline.segments.common.vcs.branch",
-				"priority": 40
-			}
+	      "function": "powerline_gitstatus.gitstatus",
+	      "priority": 40
+			},
+      {
+        "function": "powerline.segments.common.time.date",
+        "args": {
+          "format": "%H:%M:%S"
+        },
+        "priority": 15
+      }
 		]
 	}
 }
