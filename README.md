@@ -10,4 +10,4 @@
 
 ### Configurations
 
-[ihttps://niabie.github.io/2019/03/26/powerline%E9%85%8D%E7%BD%AE/](https://niabie.github.io/2019/03/26/powerline%E9%85%8D%E7%BD%AE/)
+[https://niabie.github.io/2019/03/26/powerline%E9%85%8D%E7%BD%AE/](https://niabie.github.io/2019/03/26/powerline%E9%85%8D%E7%BD%AE/)
